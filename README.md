@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Anass58
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm [Your Name]!
 
-<!---
-Anass58/Anass58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 **AI Integration Specialist | Custom Chatbots & OpenAI Solutions**
+
+I specialize in building intelligent and scalable AI solutions using **OpenAI APIs**. My work focuses on delivering smart automation and enhancing customer experiences through cutting-edge technology.
+
+### 🔧 **Skills & Expertise:**
+- Custom AI Chatbots (OpenAI, ChatGPT Integration)
+- AI Automation for Business (Email, eCommerce, and CRM systems)
+- API Development & Integration (Microsoft 365, Google Workspace)
+- Python Development & Workflow Automation
+
+### 📌 **Featured Projects:**
+- 🤖 **AI Email Autoresponder**: Automating smart email replies using OpenAI.
+- 📊 **Text Summarizer**: Extracting key insights from long documents.
+- 💬 **Custom Chatbot**: Building conversational AI for business websites.
+
+### 📫 **Connect with Me:**
+I’m always open to new projects and collaborations. Feel free to reach out!
